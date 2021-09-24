@@ -2,7 +2,7 @@
 - a repo where I make notes to myself. i didnt code a driver xd xd
 
 ### introduction
-- Ubuntu 18.04 officially not supports all realtek bluetooth chips.
+- Ubuntu 18.04(5.4.101) officially not supports all realtek bluetooth chips.
 - We need a driver for support.
 
 - this manifacturer from china, created linux drivers for all realtek chips with bh456a.
