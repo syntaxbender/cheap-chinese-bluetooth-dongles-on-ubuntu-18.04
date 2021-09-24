@@ -1,4 +1,4 @@
-# cheap-chinese-bluetooth-dongles-on-(k)ubuntu-18.04
+# cheap-chinese-bluetooth-dongles-on-ubuntu-18.04
 - a repo where I make notes to myself. i didnt code a driver xd xd
 
 ### introduction
@@ -8,7 +8,7 @@
 - this manifacturer from china, created linux drivers for all realtek chips with bh456a.
 - Links : https://www.xmpow.com/products/mpow-bh456a-bluetooth-5-0-usb-adapter-for-pc, https://www.xmpow.com/pages/download
 - follow readme instructions.
-- (it wont work on the first try.(18.04, 5.4.101) need to install pulseaudio-module-bluetooth package on kubuntu)
+- it wont work on the first try.(18.04, 5.4.101) need to install pulseaudio-module-bluetooth package
 
 ### fix pulse
 ```
